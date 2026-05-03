@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a junior studying Computer Science and Artificial Intelligence at WPI.<br>I'm currently interested in Software Engineering, Machine Learning, and Artificial Intelligence.<br>In my free time I play table tennis, read, and listen to music.
+I am currently a junior studying Computer Science and Artificial Intelligence at WPI.<br><br>I'm currently interested in Software Engineering, Machine Learning, and Artificial Intelligence.<br><br>In my free time I play table tennis, read, and listen to music.
 
 
 ## 🌐 Socials:
