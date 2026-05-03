@@ -13,4 +13,4 @@ I am currently a junior studying Computer Science and Artificial Intelligence at
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=cole-lentini&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=cole-lentini&icon=0&color=ff0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=cole-lentini&icon=0&color=ffff00)](https://visitcount.itsvg.in)
